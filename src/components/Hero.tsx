@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -10,7 +9,7 @@ const Hero = () => {
           <div className="bg-soccer-red px-4 py-2 rounded-full inline-block mb-6">
             <span className="text-white font-semibold">Iscrizioni Aperte 2025-2026</span>
           </div>
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Scuola Calcio <span className="text-soccer-gold">FC Academia</span></h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">Scuola Calcio <span className="text-soccer-gold">Footurelab</span></h1>
           <p className="text-xl text-white max-w-2xl mb-12">
             Dove i giovani talenti crescono e si sviluppano. Una formazione calcistica d'eccellenza per ragazzi dai 5 ai 16 anni.
           </p>
