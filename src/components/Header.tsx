@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center px-4">
         <div className="flex items-center">
           <div className="text-2xl font-bold">
-            <span className="text-soccer-gold">FC</span> Academia
+            Footurelab camp
           </div>
         </div>
         <nav className="hidden md:flex space-x-6">
@@ -27,3 +27,4 @@ const Header = () => {
 };
 
 export default Header;
+
